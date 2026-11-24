@@ -8,3 +8,6 @@ stream_inbox/
 *.csv
 *.jsonl
 *.tmp
+*.bak
+output.txt
+pd.DataFrame
