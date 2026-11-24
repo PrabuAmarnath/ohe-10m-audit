@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+ohe_outputs/
+stream_inbox/
+*.xlsx
+*.csv
+*.jsonl
+*.tmp
